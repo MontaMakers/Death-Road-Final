@@ -1,5 +1,5 @@
 scene.setBackgroundColor(1)
-scene.setBackgroundImage(assets.image`Death Road`)
+scene.setBackgroundImage(assets.image`Menu`)
 let car1 = sprites.create(assets.image`car0`, SpriteKind.Player)
 let humo = sprites.create(assets.image`humo1`, SpriteKind.Player)
 humo.setImage(assets.image`vacio`)
