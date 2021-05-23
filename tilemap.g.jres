@@ -127,7 +127,7 @@
             "sprites.builtin.crowd9",
             "sprites.dungeon.darkGroundNorthWest1"
         ],
-        "displayName": "level0"
+        "displayName": "track 1"
     },
     "*": {
         "mimeType": "image/x-mkcd-f4",
